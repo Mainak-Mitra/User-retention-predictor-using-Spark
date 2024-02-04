@@ -6,7 +6,7 @@
 5. [Acknowledgements](#acknowledgements)
 
 ## Project Motivation <a name="motivation"></a>
-### Customer Churn Prediction with Spark
+### User retention predictor using Spark
 
 **Project Overview:** Sparkify is a digital music service similar to Spotfiy and Pandora. In Sparkify, users can either listen to music for free or buy a subscription. Customer churn prevention is a hot and challenging problem in almost every product and service company. If companies were able to utilize customer-usage data to find unique trends and accurately map them to indicate which customers may churn, it would be possible to incentivize customers to remain using their services giving them a loyal customer base which is key for a company’s growth.
  
@@ -96,7 +96,3 @@ Python 3.5+, Spark
 3. Sparkify - Extra EDA.ipynb - extra Exploratory Analysis 
 4. images - contains charts and images used 
 
-## Acknowledgements <a name="acknowledgements"></a>
-1. https://www.udacity.com/
-2. https://www.kdnuggets.com/2019/05/churn-prediction-machine-learning.html
-3. https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b
